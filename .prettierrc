@@ -1,0 +1,12 @@
+{
+  "overrides": [
+    {
+      "files": ["*.js", "*.vue"],
+      "options": {
+        "semi": false,
+        "singleQuote": true,
+        "tabWidth": 2
+      }
+    }
+  ]
+}
